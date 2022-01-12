@@ -1,0 +1,79 @@
+/*
+Theme Name: Urlista
+Theme URI: https://enderkus.com.tr/urlista
+Author: Ender KUŞ
+Author URI: https://enderkus.com.tr
+Description: Urlista Minimal URL List
+Version: 1.0
+*/
+
+body {
+	background: #30336b;
+	color: #fff;
+}
+
+.btn span {
+	float: left;
+	padding: 4px 4px 4px 4px;
+}
+
+.btn:hover {
+-webkit-box-shadow: -2px 0px 15px 5px rgba(245,245,245,0.59); 
+box-shadow: -2px 0px 15px 5px rgba(245,245,245,0.59);
+}
+
+.fs-7 {
+	font-size: 0.8rem!important;
+}
+
+.author {
+	width: 90px;
+	height: 90px;
+}
+
+
+.border-green {
+	color: #2ecc71;
+	border: 1px #2ecc71 solid;
+	border-radius: 5px;
+}
+
+.border-twitter {
+	color: #3498db;
+	border: 1px #3498db solid;
+	border-radius: 5px;
+}
+
+.border-instagram {
+	color: #9b59b6;
+	border: 1px #9b59b6 solid;
+	border-radius: 5px;
+}
+
+.border-facebook {
+	color: #1e3799;
+	border: 1px #1e3799 solid;
+	border-radius: 5px;
+}
+
+.border-twitch {
+	color: #9980FA;
+	border: 1px #9980FA solid;
+	border-radius: 5px;
+}
+
+.border-drib {
+	color: #FDA7DF;
+	border: 1px #FDA7DF solid;
+	border-radius: 5px;
+}
+
+.border-portfolio {
+	color: #000;
+	border: 1px #000 solid;
+	border-radius: 5px;
+}
+
+
+
+
